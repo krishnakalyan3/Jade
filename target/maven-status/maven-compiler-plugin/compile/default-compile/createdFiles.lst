@@ -1,4 +1,7 @@
 eu/dmkm/multiagent/HelloAgent.class
-eu/dmkm/multiagent/HelloWorld.class
-eu/dmkm/multiagent/asd.class
-eu/dmkm/multiagent/asd$myBehaviour.class
+eu/dmkm/multiagent/Simple1.class
+eu/dmkm/multiagent/B1.class
+eu/dmkm/multiagent/Simple0.class
+eu/dmkm/multiagent/IntermediaryAgent.class
+eu/dmkm/multiagent/ParamAgent.class
+eu/dmkm/multiagent/Simple1$1.class
